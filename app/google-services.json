@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130365402800",
+    "firebase_url": "https://alc40-5454a.firebaseio.com",
+    "project_id": "alc40-5454a",
+    "storage_bucket": "alc40-5454a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130365402800:android:f7cbcb384d40db63",
+        "android_client_info": {
+          "package_name": "nigeriandailies.com.ng.alc40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130365402800-bc3se1opoasuqbeejb12lg1v3g236bat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nigeriandailies.com.ng.alc40",
+            "certificate_hash": "8ae905f7688e2dd695f59f6a8ca1b5fa39961a7e"
+          }
+        },
+        {
+          "client_id": "130365402800-bu93m3o9f4o5u529qb1mbuh7tkp0mfml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKYWi87Opuqdi0LUUUZGysxY4TyNVKeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130365402800-bu93m3o9f4o5u529qb1mbuh7tkp0mfml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
